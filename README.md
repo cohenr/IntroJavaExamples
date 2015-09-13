@@ -1,2 +1,2 @@
 # IntroJavaExamples
-Examoles from the Intro to java unit
+Examples from the Intro to java unit
